@@ -1,0 +1,57 @@
+.details{
+    display: flex;
+    text-align: center;
+    align-content: center;
+    margin-top: 8rem;
+    border: none !important;
+  }
+  .details-card{
+    border: none !important;
+    width: 40rem;
+    height: 100%;
+    opacity: 0.8;
+    background-color: rgb(163, 57, 80) !important;
+    color: aliceblue;
+    font-size: 1rem;
+  }
+  .card{
+    background-color: none;
+  
+  }
+  .align{
+    display: flex;
+    flex-direction: column;
+  }
+  .title{
+    font-weight: bolder !important;
+  }
+  .author{
+    font-weight: bolder !important;
+    font-size: 1.2rem !important;
+  color: green;
+  }
+  .list-group{
+    color: rgb(163, 57, 80) !important;
+    font-size: 1rem;
+  }
+  .link-d{
+    font-size: 1rem !important;
+  color: white;
+  }
+  .link-d:hover{
+    text-decoration: none;
+    color: green;
+  }
+  
+  .heart {
+    color: black;
+    float: right;
+  }
+  
+  .clicked {
+    color: red;
+    float: right;
+  }
+  .tost{
+    margin-top: 3.3rem;
+  }

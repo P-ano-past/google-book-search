@@ -1,0 +1,31 @@
+.card {
+    /* width: 100% !important;
+    height: 100% !important; */
+    border: 1px solid black;
+    margin: 0 auto;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  /* .c-img{
+    width: 100% !important;
+    height: 100% !important;
+  } */
+  .desc{
+    height: 130px;
+    padding: 10px;
+  }
+  
+  .desc h2{
+    font-size: 1rem;
+    font-weight: 400;
+  }
+  
+  .desc h3 p{
+    font-weight: 300;
+  }
+  
+  .desc h3{
+    color: gray;
+    font-size: 1rem;
+    padding: 10px 0 10px 0;
+  }
